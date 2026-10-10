@@ -20,6 +20,9 @@ A Hangman game I made in Python for a class project. I originally made a console
 - Zelle's graphics library
 - Mouse input and GUI elements
 
+## Preview
+![Hangman Game](preview.png)
+
 ## How to Run
 1. Download the Python file and `hangmanwords.txt`.
 2. Make sure Zelle's `graphics.py` library is available.
@@ -28,8 +31,3 @@ A Hangman game I made in Python for a class project. I originally made a console
 
 The console version runs using `play_game()`, while the graphical version runs using `graphics_hangman()`.
 
-## Preview
-![Hangman Game](preview.png)
-
-## Credits
-I developed this project for a Python class assignment
